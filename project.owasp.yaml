@@ -1,0 +1,22 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: K Srinivas Rao
+    email: ksrinivasrao531@gmail.com
+    github: sriniously
+level: 2
+license:
+  - MIT
+name: OWASP Bullet-proof React
+pitch: Bullet-Proof React is a comprehensive resource engineered to enhance the security of React and Node.js applications
+repositories:
+  - name: www-project-bullet-proof-react
+    url: https://github.com/OWASP/www-project-bullet-proof-react
+    description: OWASP Foundation Web Repository
+tags:
+  - main
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-bullet-proof-react
